@@ -5,24 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faxe" alt="faxe" /></a> </p>
 
-- 🔭 Currently working on a [Cookie Stealer](https://github.com/FaxeLeDev/Cookie-stealer/)
+- 🔭 Currently working on a [School project](https://github.com/FaxeLeDev/WebOut)
 
-- 🌱 Actually learning **C#**
-
-- 👨‍💻 All of my projects are available at [https://faxe.xyz/](https://faxe.xyz/)
+- 🌱 Actually learning **Python**
 
 - 💬 Some question ? **Contact me via mail or by m'y social network**
 
-- 📫 Need to contact me ?? **guyliano@faxe.xyz**
-
-- 📄 My CV available here [https://faxe.xyz/](https://faxe.xyz/)
+- 📫 Need to contact me ?? **guylianocmoi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/faxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faxe" height="30" width="40" /></a>
 <a href="https://instagram.com/faxe_le_genie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faxe_le_genie" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/faxe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="faxe" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/m2raEvDCRa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/m2raEvDCRa" height="30" width="40" /></a>
+<a href="/https://discord.gg/m2raEvDCRa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/m2raEvDCRa" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faxe&show_icons=true&locale=en" alt="faxe" /></p>
