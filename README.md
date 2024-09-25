@@ -7,7 +7,7 @@
 
 <h3 align="left">Me contacter:</h3>
 <p align="left">
-<a href="https://instagram.com/faxouille_le_genie?igsh=ZnQxcjQ5Mmh4N2Zh&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faxouille_le_genie" height="30" width="40" /></a>
+<a href="https://instagram.com/faxouille_le_genie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faxouille_le_genie" height="30" width="40" /></a>
 <a href="https://discord.gg/Amd4gfHF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="faxouille" height="30" width="40" /></a>
 </p>
 
