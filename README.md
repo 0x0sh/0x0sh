@@ -1,5 +1,5 @@
-<h1 align="center">Hey ! Im Faxouille</h1>
-<h3 align="center">A passionate developer and tech lead</h3>
+<h1 align="center">Hey ! Im 0x0sh</h1>
+<h3 align="center">A passionate sysadmin, developper, cybersecurity junior and tech lead</h3>
 
 - 🔭 I am currently working on a **Open Source VPS providing** project
 
